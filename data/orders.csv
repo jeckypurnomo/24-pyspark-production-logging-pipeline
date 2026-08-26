@@ -1,0 +1,14 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price
+O001,C001,2025-01-15,Laptop,Electronics,2,500.00
+O002,C002,2025-01-20,Mouse,Electronics,5,25.00
+O003,C001,2025-02-10,Keyboard,Electronics,3,50.00
+O004,C003,2025-02-18,Desk,Furniture,1,300.00
+O005,C002,2025-03-05,Chair,Furniture,4,75.00
+O006,C004,2025-03-12,Monitor,Electronics,2,200.00
+O007,C001,2026-01-10,Laptop,Electronics,1,600.00
+O008,C003,2026-02-15,Desk,Furniture,2,350.00
+O009,C002,2026-03-01,Keyboard,Electronics,2,80.00
+O010,C004,2026-03-20,Chair,Furniture,3,100.00
+O011,C001,2026-04-05,Mouse,Electronics,-1,25.00
+O012,C003,2026-04-12,Monitor,Electronics,2,-200.00
+O013,C002,,Keyboard,Electronics,2,80.00
